@@ -1,0 +1,32 @@
+#boxes {
+  margin-top: 10px;
+}
+
+#boxes .box {
+  float: left;
+  width: 30%;
+  text-align: center;
+  padding: 10px;
+}
+
+#boxes .box img {
+  width: 250px;
+}
+
+#boxes {
+  margin-top: 10px;
+}
+
+#boxes .new {
+  float: left;
+  width: 30%;
+  text-align: center;
+  padding: 10px;
+}
+
+body .highlight,
+body .current h {
+  color: orange;
+  font-weight: bold;
+  font-size: 30px;
+}
